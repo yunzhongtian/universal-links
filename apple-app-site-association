@@ -3,11 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "Y62YH85FJ3.com.lontranx.ltxgtpay.UniversalLinks",
-				"paths": [ "*"]
-			},
-			{
-				"appID": "Y62YH85FJ3.com.lontranx.ltxgtpay.UniversalLinksNew",
+				"appID": "Y62YH85FJ3.com.lontranx.ltxgtpay",
 				"paths": [ "*"]
 			}
 		]
