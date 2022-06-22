@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lontranx.ltxgtpay",
+    "sha256_cert_fingerprints":
+    ["07:83:03:CD:6A:23:27:62:5A:11:4B:B1:49:2D:72:C5:23:D4:74:31:ED:DA:E1:5A:13:E4:C7:FC:89:9A:A2:67"]
+  }
+}]
