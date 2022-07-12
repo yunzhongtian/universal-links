@@ -4,11 +4,11 @@
 		"details": [
 			{
 				"appID": "Y62YH85FJ3.com.lontranx.ltxgtpay",
-				"paths": [ "/ltxgtpay"]
+				"paths": [ "/ltxgtpay/*"]
 			},
 			{
 				"appID": "8Z8NY994T8.com.lontranx.ltxgtpay",
-				"paths": [ "/ltxgtpay"]
+				"paths": [ "/ltxgtpay/*"]
 			}
 		]
 	}
