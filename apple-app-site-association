@@ -4,10 +4,10 @@
 		"details": [
 			{
 			    "appID": "R49A53LJH3.com.eftsolutions.universallinkdemo",
-			    "paths": ["/demo/*"]
+			    "paths": ["*"]
 			   },{
 			    "appID": "TU9LLBD6H4.com.eftsolutions.universallinkdemo",
-			    "paths": ["/demo/*"]
+			    "paths": ["*"]
 			   }
 		]
 	}
